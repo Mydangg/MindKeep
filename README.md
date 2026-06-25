@@ -92,19 +92,19 @@ https://www.figma.com/design/rnajTb7CHIpTEPTuG3sO4w/DACN2?node-id=0-1&p=f&t=TduX
 # User Interface
 
 <p align="center">
-  <img src="frontend/assets/image/home.jpg" width="200"/>
-  <img src="frontend/assets/image/face.png" width="200"/>
-  <img src="frontend/assets/image/DASS-21.png" width="200"/>
+  <img src="../PsychAI/frontend/assets/images/home.jpg" width="200"/>
+  <img src="../PsychAI/frontend/assets/images/face.png" width="200"/>
+  <img src="../PsychAI/frontend/assets/images/DASS-21.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="frontend/assets/image/result.png" width="200"/>
-  <img src="frontend/assets/image/article.png" width="200"/>
-  <img src="frontend/assets/image/post.png" width="200"/>
+  <img src="../PsychAI/frontend/assets/images/result.png" width="200"/>
+  <img src="../PsychAI/frontend/assets/images/article.png" width="200"/>
+  <img src="../PsychAI/frontend/assets/images/post.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="frontend/assets/image/support.png" width="200"/>
+  <img src="../PsychAI/frontend/assets/images/support.png" width="200"/>
 </p>
 
 ---
