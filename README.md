@@ -4,7 +4,7 @@ MindKeep is a mobile application designed to support users in monitoring and imp
 
 ## Figma Design
 
-[https://www.figma.com/design/szBNKVu4pEOgbdyAIVGqoS/Project---%C4%90%E1%BA%B7ng-Tr%C3%A0-My?node-id=0-1&p=f&t=HeWwIa02hG0AkwKL-0]
+[[https://www.figma.com/design/szBNKVu4pEOgbdyAIVGqoS/Project---%C4%90%E1%BA%B7ng-Tr%C3%A0-My?node-id=0-1&p=f&t=HeWwIa02hG0AkwKL-0](https://www.figma.com/design/szBNKVu4pEOgbdyAIVGqoS/Project---%C4%90%E1%BA%B7ng-Tr%C3%A0-My?node-id=0-1&p=f&t=HeWwIa02hG0AkwKL-0)]
 
 ---
 
@@ -32,7 +32,6 @@ MindKeep is a mobile application designed to support users in monitoring and imp
 <p align="center">
   <img src="frontend/assets/images/home.jpg" width="200"/>
   <img src="frontend/assets/images/face.png" width="200"/>
-width="200"/>
 </p>
 
 <p align="center">
