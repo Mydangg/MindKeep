@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Flutter
+.dart_tool/
+build/
+
+# VS Code
+.vscode/
+
+# Tensorflow model
+*.h5
