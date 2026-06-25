@@ -4,7 +4,7 @@ MindKeep is a mobile application designed to support users in monitoring and imp
 
 ## Figma Design
 
-https://www.figma.com/design/rnajTb7CHIpTEPTuG3sO4w/DACN2?node-id=0-1&p=f&t=TduXwf84LUtYQyVR-0
+[https://www.figma.com/design/szBNKVu4pEOgbdyAIVGqoS/Project---%C4%90%E1%BA%B7ng-Tr%C3%A0-My?node-id=0-1&p=f&t=HeWwIa02hG0AkwKL-0]
 
 ---
 
@@ -27,84 +27,18 @@ https://www.figma.com/design/rnajTb7CHIpTEPTuG3sO4w/DACN2?node-id=0-1&p=f&t=TduX
 
 ---
 
-# Features
-
-## Authentication
-
-* Sign In
-* Sign Up
-* Logout
-
-## User Profile
-
-* Update personal information
-* Manage profile settings
-* Submit feedback to application administrators
-* Manage emergency contacts
-
-## Mental Health Assessment
-
-* Upload facial images
-* Facial emotion recognition using AI
-* Complete DASS-21 questionnaire
-* Combined evaluation based on facial emotion recognition and DASS-21 assessment
-* Personalized recommendations and advice
-
-## Community
-
-* Create posts
-* Share experiences and thoughts
-* View community posts
-* Like posts
-* Comment on posts
-
-## Articles
-
-* Browse mental health articles
-* Like articles
-* Save articles for later reading
-
-## Recommendation System
-
-* Personalized article recommendations
-* Personalized post recommendations
-* Based on:
-
-  * Likes
-  * Saved content
-  * User interaction history
-
-## AI Chatbot
-
-* Gemini API integration
-* Mental health support conversations
-* Answer user questions
-* Provide guidance and suggestions
-
-## Emergency Support
-
-* Quick call to trusted family members
-* Quick call to emergency medical service (115)
-* Easily accessible from the support screen
-
----
-
 # User Interface
 
 <p align="center">
   <img src="frontend/assets/images/home.jpg" width="200"/>
   <img src="frontend/assets/images/face.png" width="200"/>
-  <img src="frontend/assets/images/DASS-21.png" width="200"/>
+width="200"/>
 </p>
 
 <p align="center">
   <img src="frontend/assets/images/result.png" width="200"/>
-  <img src="frontend/assets/images/article.png" width="200"/>
+  <img src="frontend/assets/images/support.png"  width="200"/>
   <img src="frontend/assets/images/post.png" width="200"/>
-</p>
-
-<p align="center">
-  <img src="frontend/assets/images/support.png" width="200"/>
 </p>
 
 ---
